@@ -1,4 +1,4 @@
-Let's make a game!
+﻿Let's make a game!
 
 title: Mon Idle Game  
 author: TonNom  
