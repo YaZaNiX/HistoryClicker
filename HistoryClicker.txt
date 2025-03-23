@@ -14,5 +14,10 @@ Settings
 Layout
 	use default
 
+Buttons
+    *boutonPierre
+        name:ramassez une pierre
+
 Ressources
     *pierre
+        name:pierre
