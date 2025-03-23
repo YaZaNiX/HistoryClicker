@@ -19,6 +19,7 @@ Buttons
         name:ramassez une pierre
         on click:yield 1 pierre
         no text
+        icon:Pierre.png
 
 Resources
     *pierre
