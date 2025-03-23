@@ -18,6 +18,6 @@ Buttons
     *boutonPierre
         name:ramassez une pierre
 
-Ressources
+Resources
     *pierre
         name:pierre
