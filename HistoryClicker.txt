@@ -17,6 +17,8 @@ Layout
 Buttons
     *boutonPierre
         name:ramassez une pierre
+        on click:yield 1 pierre
+        no text
 
 Resources
     *pierre
