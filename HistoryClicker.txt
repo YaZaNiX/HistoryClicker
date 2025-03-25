@@ -19,7 +19,6 @@ Buttons
         name:ramassez une pierre
         on click:yield 1 pierre
         icon:https://raw.githubusercontent.com/YaZaNiX/HistoryClicker/main/Pierre.png
-        no text
 		class:bigButton hasFlares
 		icon class:shadowed
 		tooltip origin:bottom
