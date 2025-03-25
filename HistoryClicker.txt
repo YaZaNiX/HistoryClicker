@@ -17,7 +17,7 @@ Buttons
         name:ramassez une pierre
         on click:yield 1 pierre
         no text
-        icon:https://raw.githubusercontent.com/YaZaNiX/HistoryClicker/main/Pierre.png
+        icon:stuff/icons.png
 
 Resources
     *pierre
