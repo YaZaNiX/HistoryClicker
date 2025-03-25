@@ -8,6 +8,8 @@
 Settings
 	building cost increase:115%
 	building cost refund:50%
+	spritesheet:icons, 48 by 48, stuff/bunnyIcons.png
+	stylesheet:stuff/bigBlue.css
  
 Layout
 	use default
@@ -17,8 +19,8 @@ Buttons
         name:ramassez une pierre
         on click:yield 1 pierre
         no text
-        icon:stuff/icons.png
-
+        icon:stuff/bunnyIcons.png
+		
 Resources
     *pierre
         name:pierre
